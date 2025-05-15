@@ -61,7 +61,7 @@ const HowItWorks: React.FC = () => {
             Como funciona
           </h2>
           <p className="text-xl text-gray-700 max-w-3xl mx-auto">
-            Processo simples e rápido para ter sua loja online funcionando em tempo recorde
+            Processo simples e rápido para ter sua loja online funcionando em pouco tempo
           </p>
         </div>
         
