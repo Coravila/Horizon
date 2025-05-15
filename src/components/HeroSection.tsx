@@ -11,7 +11,7 @@ const HeroSection: React.FC = () => {
               Tenha sua loja online pronta para vender em poucos dias
             </h1>
             <p className="text-xl text-gray-700 mb-8">
-              Criamos lojas online profissionais sob medida, prontas para vender
+            Criamos lojas online profissionais sob medida, prontas para vender. Ideal para quem quer começar rápido e com qualidade, sem se preocupar com design ou programação.
             </p>
             <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4">
               <button className="bg-blue-600 hover:bg-blue-700 text-white font-medium py-3 px-8 rounded-full transition-all transform hover:scale-105 flex items-center justify-center">
