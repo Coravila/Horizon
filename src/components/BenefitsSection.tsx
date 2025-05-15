@@ -42,7 +42,7 @@ const BenefitsSection: React.FC = () => {
     {
       icon: <HeadphonesIcon className="h-8 w-8" />,
       title: "Suporte Incluso",
-      description: "Acesso a suporte especializado para tirar dúvidas e ajudar com qualquer necessidade durante sua jornada empreendedora."
+      description: "Durante o processo, você pode fazer perguntas, pedir sugestões e acompanhar o progresso da sua loja em tempo real."
     }
   ];
 
