@@ -42,8 +42,8 @@ const FaqSection: React.FC = () => {
       answer: "Não, nossa plataforma foi projetada para ser extremamente intuitiva e amigável. Todo o processo é guiado e não exige conhecimentos de programação ou design. Você consegue configurar e gerenciar sua loja com facilidade, mesmo sendo iniciante no mundo digital."
     },
     {
-      question: "Como funciona o pagamento das vendas?",
-      answer: "As lojas vêm com integração aos principais gateways de pagamento do mercado. Você pode conectar sua conta do Mercado Pago, PagSeguro, Stripe ou outras opções populares. Os pagamentos são processados automaticamente e transferidos diretamente para sua conta, com taxas transparentes."
+      question: "Eu preciso saber programar?",
+      answer: "Não. Você recebe a loja pronta, com o design todo feito. Basta conectar seus produtos e configurar os pagamentos."
     },
     {
       question: "Quanto tempo leva para ter minha loja funcionando?",
