@@ -3,7 +3,7 @@ import { ShoppingBag, Facebook, Instagram, Twitter, Youtube } from 'lucide-react
 
 const Footer: React.FC = () => {
   return (
-    <footer className="bg-gradient-to-t from-purple-700 via-blue-700 to-indigo-700 text-gray-300 pt-16 pb-8">
+    <footer className="footer-gradient text-gray-300 pt-16 pb-8">
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
           <div>
@@ -52,24 +52,27 @@ const Footer: React.FC = () => {
           
           <div>
             <h3 className="text-lg font-semibold text-white mb-4">Newsletter</h3>
-            <p className="mb-4">Receba atualizações, promoções e dicas exclusivas.</p>
-            <form className="flex flex-col sm:flex-row sm:space-x-3">
-              <input 
-                type="email" 
-                placeholder="Seu email" 
-                className="w-full px-4 py-2 rounded-md text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-500 mb-3 sm:mb-0"
+            <p className="mb-4">
+              Receba atualizações, promoções e dicas exclusivas.
+            </p>
+            <form className="flex space-x-2">
+              <input
+                type="email"
+                placeholder="Seu email"
+                className="px-4 py-2 rounded-l-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-400"
               />
-              <button 
-                type="submit" 
-                className="bg-blue-600 hover:bg-blue-700 text-white rounded-md px-6 py-2 transition-colors"
+              <button
+                type="submit"
+                className="bg-blue-600 hover:bg-blue-700 text-white font-medium px-6 rounded-r-md transition-colors"
               >
                 Inscrever
               </button>
             </form>
           </div>
         </div>
-        <div className="text-center text-sm text-gray-400 border-t border-gray-600 pt-4">
-          © {new Date().getFullYear()} Horizon. Todos os direitos reservados.
+        
+        <div className="border-t border-blue-700 pt-8 mt-8 text-center text-blue-300 text-sm">
+          <p>© {new Date().getFullYear()} Horizon. Todos os direitos reservados.</p>
         </div>
       </div>
     </footer>
