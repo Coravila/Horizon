@@ -43,15 +43,5 @@ function App() {
     </div>
   );
 }
-<div className="cta-section">
-  {/* ...conteúdo do CTA */}
-</div>
-
-<div className="footer-wave"></div>
-
-<footer className="footer">
-  {/* ...conteúdo do footer */}
-</footer>
-
 
 export default App;
