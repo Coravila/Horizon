@@ -47,7 +47,7 @@ const FaqSection: React.FC = () => {
     },
     {
       question: "Quanto tempo leva para ter minha loja funcionando?",
-      answer: "Com a Horizon, você pode ter sua loja online pronta para vender em menos de 24 horas! Após a compra, você recebe acesso imediato à plataforma, onde pode personalizar sua loja e adicionar produtos. O processo completo geralmente leva apenas algumas horas."
+      answer: "Com a Horizon, você pode ter sua loja online pronta para vender em de uma semana! Após a compra, você recebe acesso imediato à loja. O processo completo geralmente leva apenas alguns dias."
     },
     {
       question: "Posso personalizar o design da loja?",
