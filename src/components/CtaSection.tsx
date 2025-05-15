@@ -11,7 +11,7 @@ const CtaSection: React.FC = () => {
               Comece seu negócio online hoje mesmo
             </h2>
             <p className="text-xl mb-6 text-blue-100">
-              Junte-se a milhares de empreendedores que estão vendendo com sucesso usando a Horizon.
+              Junte-se a milhares de empreendedores que tiveram ajuda da Horizon
             </p>
             
             <div className="mb-8">
