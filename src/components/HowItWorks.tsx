@@ -41,14 +41,14 @@ const HowItWorks: React.FC = () => {
     },
     {
       number: 3,
-      title: "Comece a vender",
-      description: "Sua loja está pronta para receber pedidos e processar pagamentos automaticamente.",
+      title: "Efetue o  pagamento",
+      description: "Finalize seu pedido realizando o pagamento seguro e rápido. ",
       icon: <CreditCard className="h-6 w-6" />
     },
     {
       number: 4,
-      title: "Analise e cresça",
-      description: "Acompanhe métricas, otimize sua loja e expanda seu negócio com nosso suporte.",
+      title: "Entrega da loja",
+      description: " Apos o pagamento receba sua loja online pronta e personalizada, com design profissional e todas as funcionalidades configuradas. Agora é só começar a vender!",
       icon: <BarChart3 className="h-6 w-6" />
     }
   ];
