@@ -55,7 +55,15 @@ const FaqSection: React.FC = () => {
     },
     {
       question: "Existe suporte técnico ou ajuda disponível?",
-      answer: "Absolutamente! Oferecemos suporte completo via chat, e email. Nossa equipe está disponível para auxiliar com dúvidas técnicas, estratégias de venda e otimizações. Além disso, você tem acesso a uma comunidade de empreendedores usando nossas lojas."
+      answer: "Absolutamente! Oferecemos suporte completo via chat e e-mail. Nossa equipe está disponível para ajudar com dúvidas técnicas e orientações para você tirar o máximo da sua loja."
+
+
+
+
+
+
+
+
     }
   ];
 
