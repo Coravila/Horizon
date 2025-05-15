@@ -3,7 +3,7 @@ import { ArrowRight, CheckCircle } from 'lucide-react';
 
 const CtaSection: React.FC = () => {
   return (
-    <section className="py-20 bg-gradient-to-br from-blue-600 to-purple-700 text-white">
+    <section className="py-20 bg-gradient-to-b from-indigo-200 via-blue-600 to-purple-700 text-white">
       <div className="container mx-auto px-4">
         <div className="flex flex-col md:flex-row items-center justify-between">
           <div className="md:w-1/2 mb-10 md:mb-0">
