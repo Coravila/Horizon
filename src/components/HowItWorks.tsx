@@ -36,7 +36,7 @@ const HowItWorks: React.FC = () => {
     {
       number: 2,
       title: "Criamos a interface completa pra você",
-      description: "Com base nas suas preferências, desenvolvemos uma loja visualmente profissional, moderna e pensada para conversão. Tudo pronto para você adicionar seus produtos e conectar seus métodos de pagamento.",
+      description: "Criamos uma loja moderna, profissional e focada nas suas preferências. Pronta para você começar a vender.",
       icon: <ShoppingCart className="h-6 w-6" />
     },
     {
