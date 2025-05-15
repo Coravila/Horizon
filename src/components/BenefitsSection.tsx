@@ -26,8 +26,8 @@ const BenefitsSection: React.FC = () => {
     },
     {
       icon: <CheckCircle className="h-8 w-8" />,
-      title: "Estrutura Validada",
-      description: "Layout e arquitetura já testados e otimizados para maximizar conversões e proporcionar a melhor experiência aos seus clientes."
+      title: "Liberdade para personalizar depois",
+      description: "Após a entrega, você pode ajustar produtos, banners e textos com facilidade, sempre que quiser."
     },
     {
       icon: <LineChart className="h-8 w-8" />,
