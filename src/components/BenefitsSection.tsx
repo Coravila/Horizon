@@ -21,8 +21,8 @@ const BenefitsSection: React.FC = () => {
   const benefits = [
     {
       icon: <Zap className="h-8 w-8" />,
-      title: "Automação Completa",
-      description: "Processos automatizados para gestão de estoque, pagamentos e envios, economizando seu tempo para focar no crescimento do negócio."
+      title: "Entrega rápida",
+      description: "Você recebe sua loja pronta em poucos dias, sem processos complicados ou demora desnecessária."
     },
     {
       icon: <CheckCircle className="h-8 w-8" />,
