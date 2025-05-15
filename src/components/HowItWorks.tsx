@@ -29,8 +29,8 @@ const HowItWorks: React.FC = () => {
   const steps = [
     {
       number: 1,
-      title: "Escolha sua loja",
-      description: "Selecione entre nossos modelos de lojas já prontos e personalizáveis para o seu nicho.",
+      title: "Especifique suas preferencias",
+      description: "Você preenche um formulário rápido informando seu estilo preferido, cores, referências e outros detalhes visuais. Nada técnico!",
       icon: <MousePointer className="h-6 w-6" />
     },
     {
