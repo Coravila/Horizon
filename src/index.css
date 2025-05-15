@@ -2,10 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-.footer-gradient {
-  background: linear-gradient(180deg, #6b3abb 0%, #4a33a8 50%, #2f2b8a 100%);
-}
-
 /* Transição suave entre CTA e Footer */
 .cta-section {
   position: relative;
