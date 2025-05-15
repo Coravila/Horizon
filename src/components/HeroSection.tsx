@@ -8,7 +8,7 @@ const HeroSection: React.FC = () => {
         <div className="flex flex-col md:flex-row items-center">
           <div className="md:w-1/2 mb-10 md:mb-0 md:pr-10">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 leading-tight mb-4">
-              Tenha sua loja online pronta para vender em poucos cliques
+              Tenha sua loja online pronta para vender em poucos dias
             </h1>
             <p className="text-xl text-gray-700 mb-8">
               A Horizon cria lojas online profissionais e prontas para você começar a vender imediatamente, sem complicações técnicas ou conhecimentos avançados.
