@@ -11,7 +11,7 @@ const HeroSection: React.FC = () => {
               Tenha sua loja online pronta para vender em poucos dias
             </h1>
             <p className="text-xl text-gray-700 mb-8">
-              A Horizon cria lojas online profissionais e prontas para você começar a vender imediatamente, sem complicações técnicas ou conhecimentos avançados.
+              Criamos lojas online profissionais sob medida, prontas para vender
             </p>
             <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4">
               <button className="bg-blue-600 hover:bg-blue-700 text-white font-medium py-3 px-8 rounded-full transition-all transform hover:scale-105 flex items-center justify-center">
